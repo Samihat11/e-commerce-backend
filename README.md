@@ -23,7 +23,7 @@ After install:
 
 2. Run `npm install`.
 
-3. In the .env file update the DB_USER and DB_PASSWORD with your mySQL login details.
+3. In the .env file update the DB_USER and DB_PASSWORD with your mySQL login detail and rename the file to .env.
 
 4. Log into MySQL from the terminal and `run source db/schema.sql;` to create the database.
 
@@ -32,6 +32,8 @@ After install:
 ## Usage
 
 Execute the app by running the command `npm start` and then use HTTP requests and an API testing tool of your choice to interact with the database.
+
+## Walkthrough Video
 
 ## License
 
